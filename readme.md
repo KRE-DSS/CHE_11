@@ -73,7 +73,7 @@ Betrachte die chemische Struktur des Zweifachzuckers Maltose:
 - [ ] Erstelle eine Überschrift "Maltose"
 - [ ] Mache einen Screenshot der Maltose und füge das Bild in OneNote ein
 - [ ] Umkreise die beiden Einfachzucker-Bausteine farbig
-- [ ] Numemriere die Kohlenstoffatome der Einfachzucker-Bausteine
+- [ ] Nummeriere die Kohlenstoffatome der Einfachzucker-Bausteine
 
 Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projektion der Maltose:
 ===
