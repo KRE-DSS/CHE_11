@@ -148,6 +148,7 @@ Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projekt
 - [[?]] 💡 Betrachte die Stellung der $ -OH $ und $ -CH_2OH $-Gruppen
 ***
 > **📋 Zusammenfassung**
+
 > * Bei der Bindungsknüpfung müssen die beteiligten Hydroxygruppen sich nahe kommen
 > * Daher muss ggf. die Haworth-Projektion eines der beteiligten Einfachzucker-Bausteine gedreht bzw. geklappt werden
 ***
