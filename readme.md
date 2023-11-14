@@ -107,7 +107,7 @@ linkes Glucose-Molekül: [[(alpha)|beta]]    rechtes Glucose-Molekül: [[(alpha)
 >
 > * Zweifachzucker werden gebildet, indem zwei Einfachzucker-Bausteine verknüpft werden
 > * Diese Verknüpfung erfolgt über eine Sauerstoff-Brücke (Ether-Bindung)
-> * Dabei wird ein Wasser-Molekül abgespalten
+> * Dabei wird ein Wasser-Molekül abgespalten --> Kondensationsreaktion
 > * Die Bindung wird als **glykosidische Bindung** bezeichnet.
 > * Syntax: `Anomere in der Bindung` - `Knüpfungs-C-Atom links` , `Knüpfungs-C-Atom rechts` -glykosidische Bindung, z. B. α-1,4-glykosidische Bindung
 ***
@@ -148,7 +148,7 @@ Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projekt
 - [[?]] 💡 Betrachte die Stellung der $ -OH $ und $ -CH_2OH $-Gruppen
 ***
 > **📋 Zusammenfassung**
-
+>
 > * Bei der Bindungsknüpfung müssen die beteiligten Hydroxygruppen sich nahe kommen
 > * Daher muss ggf. die Haworth-Projektion eines der beteiligten Einfachzucker-Bausteine gedreht bzw. geklappt werden
 ***
