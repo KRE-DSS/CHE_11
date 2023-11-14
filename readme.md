@@ -152,7 +152,7 @@ Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projekt
 
 **Aufgaben**
 
-**Ermittle**, wie man die β-D-Fructofuranose im Raum anordnen muss, damit die Hydroxy-Gruppe des C1-Atoms neben der Hydroxygruppe des C4-Atoms der α-D-Glucopyranose zu liegen kommt:
+Ermittle, wie man die β-D-Fructofuranose im Raum anordnen muss, damit die Hydroxy-Gruppe des C1-Atoms neben der Hydroxygruppe des C4-Atoms der α-D-Glucopyranose zu liegen kommt:
 
 - [ ] Gehe auf die [Molview-Website](htpps://molview.org)
 - [ ] Gib in das Suchfeld "Beta-d-fructofuranose" ein
@@ -160,9 +160,11 @@ Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projekt
 - [ ] Mache einen Screenshot und speichere diesen in dein OneNote
 - [ ] Vergleiche dein gedrehtes 3D-Modell mit der Haworth Projektion
 
+**Beschreibe** dein Vorgehen und den Vergleich:
+[[___ ___]]
+
 [^1]:  <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Alpha-D-Glucopyranose.svg">Alpha-D-Glucopyranose</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-chem">Wikimedia Commons</a> 
  
 [^2]: <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Beta-D-Fructofuranose.svg">Beta-D-Fructofuranose</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-chem">Wikimedia Commons</a>
 
 [^3]: <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Saccharose2.svg">Saccharose2</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-ineligible">Wikimedia Commons</a>
-
