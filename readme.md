@@ -131,9 +131,9 @@ Betrachte die Haworth-Projektionsformeln der α-D-Glucopyranose, der β-D-Fructo
 **Aufgaben**
 
 -[ ] Erstelle eine Überschrift "Saccharose"
--[ ] Mache einen Screenshot der Saccharose und füge das Bild in OneNote ein
--[ ] Umkreise die beiden Einfachzucker-Bausteine farbig
--[ ] Numemriere die Kohlenstoffatome der Einfachzucker-Bausteine
+-[ ] Mache einen Screenshot der Strukturformeln und füge das Bild in OneNote ein
+-[ ] Umkreise die beiden Einfachzucker-Bausteine im Saccharose-Molekül farbig
+-[ ] Nummeriere die Kohlenstoffatome der in den Einfachzuckern und im Saccharose-Molekül
 
 Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projektion der Saccharose:
 ===
@@ -142,8 +142,10 @@ Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projekt
 
 - [[x]] Das C1-Atom  der Glucose liegt nicht neben dem C2-Atom der Fructose
 - [[ ]] Glykosidische Bindungen können nur zwischen dem C1-Atom des einen und dem C4-Atom des anderen Bausteins entstehen
-- [[x]] Eines der Moleküle muss gedreht werden, damit die Hydroxygruppen an den beteiligten C-Atomen miteinander reagieren können
-- [[ ]] Die Nummerierung der C-Atome ändert sich 
+- [[x]] Das Frcutose-Molekül muss gedreht werden, damit die Hydroxygruppen an den beteiligten C-Atomen miteinander reagieren können
+- [[ ]] Die Nummerierung der C-Atome ändert sich
+- [[?]] 💡 Vergleiche die Fructose als Einfachzucker und im Saccharose-Molekül
+- [[?]] 💡 Betrachte die Stellung der $ -OH $ und $ -CH_2OH $-Gruppen
 ***
 > **📋 Zusammenfassung**
 > * Bei der Bindungsknüpfung müssen die beteiligten Hydroxygruppen sich nahe kommen
@@ -161,6 +163,7 @@ Ermittle, wie man die β-D-Fructofuranose im Raum anordnen muss, damit die Hydro
 - [ ] Vergleiche dein gedrehtes 3D-Modell mit der Haworth Projektion
 
 **Beschreibe** dein Vorgehen und den Vergleich:
+
 [[___ ___]]
 
 [^1]:  <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Alpha-D-Glucopyranose.svg">Alpha-D-Glucopyranose</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-chem">Wikimedia Commons</a> 
