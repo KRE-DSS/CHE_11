@@ -3,7 +3,7 @@ author:   KRE-DSS
 
 email:    
 
-version:  0.9.9
+version:  1.0.0
 
 language: de
 
