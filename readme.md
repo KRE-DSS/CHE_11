@@ -3,7 +3,7 @@ author:   KRE-DSS
 
 email:    
 
-version:  1.0.0
+version:  0.9.9
 
 language: de
 
@@ -69,9 +69,9 @@ Betrachte die chemische Struktur des Zweifachzuckers Maltose:
 
 **Aufgaben**
 
-- [ ] Erstelle eine neue OneNote-Seite mit dem Titel "Disaccharide"
+- [ ] Erstelle eine neue Notizbuch-Seite mit dem Titel "Disaccharide"
 - [ ] Erstelle eine Überschrift "Maltose"
-- [ ] Mache einen Screenshot der Maltose und füge das Bild in OneNote ein
+- [ ] Mache einen Screenshot der Maltose und füge das Bild in dein Notizbuch ein
 - [ ] Umkreise die beiden Einfachzucker-Bausteine farbig
 - [ ] Nummeriere die Kohlenstoffatome der Einfachzucker-Bausteine
 
@@ -118,15 +118,15 @@ linkes Glucose-Molekül: [[(alpha)|beta]]    rechtes Glucose-Molekül: [[(alpha)
 
 ### Saccharose
 
-Saccharose ist ein Zweifachzucker, der aus α-D-Glucopyranose und β-D-Fructofuranose besteht. Bei diesem Zweifachzucker ist das C1-Atom der Glucose glosidisch mit dem C2-Atom der Fructose verknüpft.
+Saccharose ist ein Zweifachzucker, der aus α-D-Glucopyranose und β-D-Fructofuranose besteht. Bei diesem Zweifachzucker ist das C1-Atom der Glucose glykosidisch mit dem C2-Atom der Fructose verknüpft.
 
 Betrachte die Haworth-Projektionsformeln der α-D-Glucopyranose, der β-D-Fructofuranose und der Saccharose
 
-![1](/media/Alpha-D-Glucopyranose.svg "Glucose-Monomer[^1]")
+![Haworth-Projektion der Glucose](/media/Alpha-D-Glucopyranose.svg "Glucose-Monomer[^2]")
 
-![2](/media/Beta-D-Fructofuranose.svg "Fructose-Monomer[^2]")
+![Haworth-Projektion der Fructose](/media/Beta-D-Fructofuranose.svg "Fructose-Monomer[^4]")
 
-![3](/media/Saccharose2.svg "Saccharose[^3]")
+![Haworth-Projektion der Saccharose](/media/Saccharose2.svg "Saccharose[^5]")
 
 **Aufgaben**
 
@@ -157,18 +157,18 @@ Beantworte nun folgende Frage mit Hilfe der von dir bearbeiteten Haworth-Projekt
 
 Ermittle, wie man die β-D-Fructofuranose im Raum anordnen muss, damit die Hydroxy-Gruppe des C1-Atoms neben der Hydroxygruppe des C4-Atoms der α-D-Glucopyranose zu liegen kommt:
 
-- [ ] Gehe auf die [Molview-Website](htpps://molview.org)
+- [ ] Gehe auf die Molview-Webseite: [https://molview.org](https://molview.org)
 - [ ] Gib in das Suchfeld "Beta-d-fructofuranose" ein
 - [ ] Drehe und klappe das Molekül so, dass das C1-Atom an der richtigen Stelle zu liegen kommt (ACHTUNG: die Hydroxy-Gruppen der Glucose und Fructose müssen in die selbe Richtung weisen --> nach unten)
-- [ ] Mache einen Screenshot und speichere diesen in dein OneNote
+- [ ] Mache einen Screenshot und speichere diesen in deinen Notizbuch
 - [ ] Vergleiche dein gedrehtes 3D-Modell mit der Haworth Projektion
 
 **Beschreibe** dein Vorgehen und den Vergleich:
 
 [[___ ___]]
 
-[^1]:  <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Alpha-D-Glucopyranose.svg">Alpha-D-Glucopyranose</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-chem">Wikimedia Commons</a> 
- 
-[^2]: <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Beta-D-Fructofuranose.svg">Beta-D-Fructofuranose</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-chem">Wikimedia Commons</a>
+[^2]:  <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Alpha-D-Glucopyranose.svg">Alpha-D-Glucopyranose</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-chem">Wikimedia Commons</a>
 
-[^3]: <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Saccharose2.svg">Saccharose2</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-ineligible">Wikimedia Commons</a>
+[^4]: <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Beta-D-Fructofuranose.svg">Beta-D-Fructofuranose</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-chem">Wikimedia Commons</a>
+
+[^5]: <a href="https://commons.wikimedia.org/wiki/User:NEUROtiker">NEUROtiker</a>, <a href="https://commons.wikimedia.org/wiki/File:Saccharose2.svg">Saccharose2</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-ineligible">Wikimedia Commons</a>
